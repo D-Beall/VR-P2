@@ -12,3 +12,5 @@ Unlike regular dodgeball, you must hit an NPC three times before they are out.  
 NPCs can run around, but you (the player) will move via teleportation.  Teleportation should be initiated using the Touch controllers.
 The game should end when either you (the player) have been hit three times or all of the NPCs have been eliminated.  There should be a game-end screen that clearly indicates this.  You may wish to consider using a separate Unity scene to do this, but you don't necessarily need to accomplish this requirement in that way.  The game-end screen does not need to allow you to restart a new game, but you can if you wish.
 One member of your team will submit your code through Canvas.  The submission should include a comment with the names of all the programmers on your team.  You will also demo your efforts to the instructor during class.
+
+Colby Snyder

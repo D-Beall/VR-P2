@@ -14,3 +14,4 @@ The game should end when either you (the player) have been hit three times or al
 One member of your team will submit your code through Canvas.  The submission should include a comment with the names of all the programmers on your team.  You will also demo your efforts to the instructor during class.
 
 Colby Snyder
+// Jack Fordyce
